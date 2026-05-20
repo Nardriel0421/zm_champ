@@ -1,0 +1,9 @@
+# Compiled map files
+*.d3dbsp
+*.d3dbsp_fxc
+*.ff
+
+# Temporary build folders
+/zone/
+/raw/maps/zm/
+/raw/sound/
